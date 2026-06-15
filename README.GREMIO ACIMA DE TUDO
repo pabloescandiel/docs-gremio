@@ -1,0 +1,94 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grêmio Foot-Ball Porto Alegrense</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background:#e6f0ff;
+    margin:0;
+    padding:0;
+    color:#222;
+}
+
+header{
+    background:#0099cc;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+main{
+    max-width:900px;
+    margin:30px auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+h2{
+    color:#0099cc;
+}
+
+p{
+    text-align:justify;
+    line-height:1.7;
+}
+
+footer{
+    text-align:center;
+    background:#0099cc;
+    color:white;
+    padding:15px;
+    margin-top:30px;
+}
+</style>
+</head>
+<body>
+
+<header>
+    <h1>Grêmio Foot-Ball Porto Alegrense</h1>
+</header>
+
+<main>
+
+<h2>História</h2>
+
+<p>
+O Grêmio Foot-Ball Porto Alegrense é um dos clubes mais tradicionais e vitoriosos do futebol brasileiro. Fundado em 15 de setembro de 1903, na cidade de Porto Alegre, o clube nasceu da iniciativa de jovens apaixonados pelo futebol, esporte que começava a se popularizar no Brasil. Desde os primeiros anos, o Grêmio construiu uma forte identidade baseada na competitividade, na dedicação e na paixão de sua torcida.
+</p>
+
+<p>
+Ao longo de sua história, o Grêmio conquistou inúmeros títulos importantes. No cenário nacional, destacou-se com conquistas do Campeonato Brasileiro Série A e da Copa do Brasil. Internacionalmente, o clube alcançou grande prestígio ao vencer a Copa Libertadores da América em três oportunidades (1983, 1995 e 2017), além de conquistar a Copa Intercontinental em 1983, tornando-se campeão mundial.
+</p>
+
+<p>
+O Grêmio também é conhecido por revelar grandes jogadores e por contar com ídolos que marcaram época, como Renato Gaúcho, Danrlei e Lucas Leiva. Sua torcida é considerada uma das mais apaixonadas do país, acompanhando o time em todos os momentos e mantendo uma forte ligação com o clube.
+</p>
+
+<p>
+Atualmente, o Grêmio manda seus jogos na Arena do Grêmio, um dos estádios mais modernos do Brasil. Com mais de um século de história, o clube continua sendo um símbolo do futebol gaúcho e brasileiro, carregando uma trajetória marcada por conquistas, tradição e paixão.
+</p>
+
+<h2>Site Oficial</h2>
+
+<p>
+<a href="https://www.gremio.net" target="_blank">
+www.gremio.net
+</a>
+</p>
+
+</main>
+
+<footer>
+    © Grêmio Foot-Ball Porto Alegrense
+</footer>
+
+</body>
+</html>
+```
